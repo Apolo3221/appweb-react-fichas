@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f1f5f9;
+}
+
+.header {
+  background: #1f3a8a;
+  color: white;
+  padding: 1rem 2rem;
+}
+
+.event-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.event-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+}

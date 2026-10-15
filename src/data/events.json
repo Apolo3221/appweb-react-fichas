@@ -1,0 +1,11 @@
+[
+ { "id": 1, "title": "Workshop de Git e GitHub", "location": "Sala B2.04",
+ "startsAt": "2026-10-20T14:00", "capacity": 30, "registered": 12 },
+ { "id": 2, "title": "Introdução ao Docker", "location": "Auditório ESTG",
+ "startsAt": "2026-10-27T10:00", "capacity": 80, "registered": 80 },
+ { "id": 3, "title": "Sessão de Estudo: JavaScript", "location": "Biblioteca",
+ "startsAt": "2026-11-03T16:00", "capacity": 15, "registered": 4 },
+ { "id": 4, "title": "Palestra: Carreiras em Desenvolvimento Web",
+ "location": "Auditório ESTG", "startsAt": "2026-11-10T18:00",
+ "capacity": 120, "registered": 57 }
+]
